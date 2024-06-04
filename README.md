@@ -10,4 +10,7 @@ You can access the generated Swagger UI here: http://localhost:8080/swagger-ui
 
 Have fun!
 
-This application
+YouTube Video: https://www.youtube.com/watch?v=-io2RSelNtE
+LinkedIn: https://www.linkedin.com/in/martindilger/
+Web: https://www.nebulit.de
+
